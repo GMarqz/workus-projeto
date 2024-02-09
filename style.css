@@ -1,0 +1,14 @@
+body {
+    box-sizing: border-box;
+}
+
+.nav__bar {
+    padding: 1rem 3rem;
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-evenly;
+}
+
+.nav__bar-container {
+    width: 50%;
+}
