@@ -1,5 +1,6 @@
 # WorkUs - Landing Page
 
+Animção que pretendo implementar eventualmente:
 [![Landing Page Animation](https://img.youtube.com/vi/laCL0zsPzlY/0.jpg)](https://www.youtube.com/watch?v=laCL0zsPzlY)
 
 Este é um projeto baseado na landing page construída no curso ["Landing Page: Construindo Campanha"](https://cursos.alura.com.br/course/landingpage-construindo-campanha) da Alura. O objetivo é criar uma landing page personalizada para promover um produto ou serviço.
