@@ -60,7 +60,9 @@ a {
     font-weight: 700;
 }
 
-.container__first__section__div-button {
+.container__first__section__div-button,
+.container__third__section__div-button,
+.container__fourth__section__div-button {
     width: 21.563rem;
     height: 3.188rem;
     background-color: var(--main-color);
@@ -112,3 +114,51 @@ h2 {
 span {
     border-bottom: 0.5rem solid var(--main-color);
 }
+
+.container__third__section {
+    display: flex;
+    flex-direction: row;
+}
+
+.container__third__section__div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 48.25rem;
+    gap: 5rem;
+}
+
+.container__third__section__div-background {
+    width: 40%;
+    background-image: url(/assets/images/iconsTwo.svg);
+    background-image: url(/assets/images/iconsFour.svg);
+    background-repeat: no-repeat;
+}
+
+.container__third__section__div-button,
+.container__fourth__section__div-button {
+    width: 31.875rem;
+    height: 3rem;
+    color: var(--secondary-color);
+    font-size: 1.125rem;
+    font-weight: 700;
+}
+
+.container__fourth__section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 3rem;
+}
+
+.container__fourth__section__div {
+    width: 100%;
+    height: 34.375rem;
+    background-color: var(--main-color);
+    
+}
+
+.container__fourth__section__div-heading {
+    color: var(--secondary-color);
+}
+
