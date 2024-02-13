@@ -32,7 +32,6 @@ Para executar este projeto localmente, siga estas etapas:
 1. Clone este repositório
    ```bash
    git clone https://github.com/seu-usuario/nome-do-repositorio.git
-```
 
 Abra o arquivo index.html em seu navegador web preferido.
 

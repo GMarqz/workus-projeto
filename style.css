@@ -111,8 +111,16 @@ h2 {
     font-weight: 700;
 }
 
+.div-span,
+.container__third__section__div__div-span {
+    width: 130px;
+    height: 13px;
+    background-color: var(--main-color);
+    border-radius: 0.625rem;
+}
+
 span {
-    border-bottom: 0.5rem solid var(--main-color);
+    /* border-bottom: 0.5rem solid var(--main-color); */
 }
 
 .container__third__section {
@@ -133,6 +141,10 @@ span {
     background-image: url(/assets/images/iconsTwo.svg);
     background-image: url(/assets/images/iconsFour.svg);
     background-repeat: no-repeat;
+}
+
+.container__third__section__div__div-span {
+    margin-left: 6rem;
 }
 
 .container__third__section__div-button,
